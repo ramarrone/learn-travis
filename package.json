@@ -2,7 +2,7 @@
   "name": "learn-travis",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nelsonic/learn-travis.git"
+    "url": "https://github.com/ramarrone/learn-travis.git"
   },
   "description": "Simple nodejs, travis and grunt demo",
   "author": "https://twitter.com/nelsonic",
